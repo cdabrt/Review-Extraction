@@ -3,31 +3,31 @@ See extraction.md to see the results of the data extraction form.
   
 The data extraction form is structured as follows:  
   
-## Reviewer  
+### Reviewer  
 Name and surname of the reviewer filling the form.  
   
-## Title  
+### Title  
 Title of the paper.  
   
-## Authors  
+### Authors  
 Names of the authors of the paper.  
   
-## Venue  
+### Venue  
 The venue where the paper was presented/published.  
   
-## Publication Year
+### Publication Year
 Publication date of the paper.  
   
-## Publication Type  
+### Publication Type  
 Articles/Reports/conference Proceedings…  
   
-## Research Methodology Employed  
+### Research Methodology Employed  
 Case Study/Experiment/Empirical Study/…  
   
-## Context Of The Study  
+### Context Of The Study  
 Industry/Academia/Project Scale/…  
   
-## Technical Focus  
+### Technical Focus  
 AI/LLMs used, SA practice being addressed, specific integration type  
   
 ## Tools And Frameworks  
