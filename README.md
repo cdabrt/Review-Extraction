@@ -30,8 +30,8 @@ Industry/Academia/Project Scale/…
 ### Technical Focus  
 AI/LLMs used, SA practice being addressed, specific integration type  
   
-## Tools And Frameworks  
+### Tools And Frameworks  
 Tools or platforms developed or used in the study  
   
-## Outcomes And Findings  
+### Outcomes And Findings  
 Reported benefits and limitations and any available qualitative/quantitative results  
