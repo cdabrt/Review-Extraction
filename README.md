@@ -2,16 +2,20 @@ See extraction.md to see the results of the data extraction form.
 The data extraction form is structured as follows:  
   
 ## Reviewer  
-Name and surname of the reviewer filling the form  
+Name and surname of the reviewer filling the form.  
   
 ## Title  
+Title of the paper.  
   
 ## Authors  
+Names of the authors of the paper.  
   
 ## Venue  
+The venue where the paper was presented/published.  
   
 ## Publication Year
-
+Publication date of the paper.  
+  
 ## Publication Type  
 Articles/Reports/conference Proceedings…  
   
